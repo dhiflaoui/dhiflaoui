@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
+<p align="left">My name is Belgacem DHIFLAOUi and I'm a Full-Stack Js Developer, from Tunsia</p>
 ###
+<p>🌱 I’m currently learning python and Djongo Framwork</p>
 
 <h2 align="left">About me</h2>
 
@@ -79,6 +79,4 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
 </div>
-###
 
-###
