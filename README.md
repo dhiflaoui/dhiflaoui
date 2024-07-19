@@ -20,13 +20,17 @@ Here are some ideas to get you started:
 
 <p align="left">My name is Belgacem DHIFLAOUi and I'm a Full-Stack Js Developer, from Tunsia</p>
 ###
-<p>🌱 I’m currently learning python and Djongo Framwork</p>
+<p>🌱 I’m currently learning </p>
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+  ✨ Creating bugs since ...<br>
+  📚 I'm currently learning python and Djongo Framwork
+  <br>🎯 Goals: ...<br>
+  🎲 Fun fact: ...</p>
 
 ###
 
