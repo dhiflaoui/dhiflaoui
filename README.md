@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 ###
 
 <p align="left">My name is Belgacem DHIFLAOUi and I'm a Full-Stack Js Developer, from Tunsia</p>
-###
-<p>🌱 I’m currently learning </p>
+
 
 <h2 align="left">About me</h2>
 
