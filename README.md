@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   ✨ Creating bugs since ...<br>
-  📚 I'm currently learning python and Djongo Framwork
+  📚 I'm currently learning python and Django Framwork
   <br>🎯 Goals: ...<br>
   🎲 Fun fact: ...</p>
 
