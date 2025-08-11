@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 
 <p align="left">
   📚 I'm currently learning python , Genrative Ai
-###
 
 <h2 align="left">I code with</h2>
 
