@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ ✨ Creating bugs since ...<br>
+   <br>🎯 Goals: ...<br>
+  🎲 Fun fact: ...</p>
 -->
 <h1 align="left">Hey 👋 What's up?</h1>
 
@@ -26,11 +29,7 @@ Here are some ideas to get you started:
 ###
 
 <p align="left">
-  ✨ Creating bugs since ...<br>
-  📚 I'm currently learning python and Django Framwork
-  <br>🎯 Goals: ...<br>
-  🎲 Fun fact: ...</p>
-
+  📚 I'm currently learning python , Genrative Ai
 ###
 
 <h2 align="left">I code with</h2>
@@ -45,6 +44,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/next-original.svg" height="40" alt="Next logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
